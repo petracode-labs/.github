@@ -10,7 +10,7 @@ Verification is assertion-driven: contracts and system invariants are embedded d
 
 ```text
 +---------------------------------------------------------------------------------------+
-|                    Source Languages with Embedded Assertions e.g.                          |
+|                    Source Languages with Embedded Assertions e.g.                     |
 |    [ Java ]              [ Python ]             [ C++ ]              [ C# ]           |
 |    (assert cond)        (assert cond)        (assert(cond))      (Debug.Assert)       |
 +---------------------------------------------------------------------------------------+
