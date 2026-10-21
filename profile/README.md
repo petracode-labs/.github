@@ -4,7 +4,7 @@ Petracode provides a language-agnostic, scalable formal verification standard fo
 
 Verification is assertion-driven: contracts and system invariants are embedded directly within source programs as executable assertions. Petracode extracts these into a unified intermediate representation, lowers them to equivalent assertion-preserving Java models, and formally proves safety using symbolic execution engines.
 
-**Petra Examples:** [https://docs.petracode.co.uk/guides/whatispetra/](https://github.com/petracode-labs/petra-examples)
+**Petra Examples:** [https://github.com/petracode-labs/petra-examples](https://github.com/petracode-labs/petra-examples)
 
 **Official Documentation:** [https://docs.petracode.co.uk/guides/whatispetra/](https://docs.petracode.co.uk/guides/whatispetra/)
 
