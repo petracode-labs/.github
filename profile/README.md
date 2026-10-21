@@ -8,6 +8,8 @@ Verification is assertion-driven: contracts and system invariants are embedded d
 
 **Commercialization Site:** [www.petracode.co.uk](https://www.petracode.co.uk)
 
+**Petra Thesis:** [https://eprints.soton.ac.uk/id/eprint/512032/](https://eprints.soton.ac.uk/id/eprint/512032/)
+
 ---
 
 ## Architecture Overview
